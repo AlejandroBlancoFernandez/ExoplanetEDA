@@ -1,0 +1,16 @@
+pl_name - Planet name most commonly used in the literature (technical)
+hostname - Stellar name most commonly used in the literature (technical)
+sy_snum - Number of stars in the planetary system
+sy_pnum - Number of planets in the planetary system
+sy_mnum - Number of moons in the planetary system
+cb_flag - Flag indicating whether the planet orbits a binary system (1=yes, 0=no)
+discoverymethod - Method by which the planet was first identified
+disc_year - Year the planet was discovered
+disc_facility - Name of facility of planet discovery observations
+pl_orbper - Time the planet takes to make a complete orbit around the host star or system
+pl_rade - Length of a line segment from the center of the planet to its surface, measured in units of radius of the Earth
+pl_masse - Amount of matter contained in the planet, measured in units of masses of the Earth
+pl_dens - Amount of mass per unit of volume of the planet (g/cm**3)
+st_age - The age of the host star
+sy_dist - Distance to the planetary system in units of parsecs
+
