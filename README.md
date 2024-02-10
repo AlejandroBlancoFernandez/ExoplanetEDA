@@ -11,4 +11,4 @@ The initial premise of this project is to understand a little bit more about exo
 My source for obtaining the data is [NASA's Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html) databse.
 ### 2. Exploratory Data Analysis
 
-Once the data is gathered
+Once the data is gathered, I've performed an EDA on a Google Colab Notebook.
