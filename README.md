@@ -13,4 +13,4 @@ My source for obtaining the data is [NASA's Exoplanet Archive](https://exoplanet
 Once the data is gathered, I've performed the EDA on the Google Colab Notebook in the following steps: 1) Data cleaning, 2) Data visualization, 3) Data Analysis and 4) Interpretation.
 
 
-**Tools and Technologies**: NASA's Open API Exoplanet, Python 3, Google Colab, Pandas, Numpy, Matplotlib, Seaborn
+**Tools and Technologies**: NASA's Open API Exoplanet, Python 3, Google Colab, Pandas, Numpy, Matplotlib and Seaborn.
